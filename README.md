@@ -6,3 +6,4 @@ repositori untuk menyimpan data ke depannya
 - praktekkan di java
 - belajar java di website codepolitan
 - kemudian peraktekkan step by step
+- cari cari di website
