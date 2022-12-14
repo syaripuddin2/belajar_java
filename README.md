@@ -4,5 +4,5 @@ repositori untuk menyimpan data ke depannya
 - belajar secara bertahap-tahap
 - pahami setiap kode yang di tulis
 - praktekkan di java
-- nonton youtube setiap hari di kelas terbuka
+- belajar java di website codepolitan
 - kemudian peraktekkan step by step
