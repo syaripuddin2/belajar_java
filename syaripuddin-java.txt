@@ -1,0 +1,5 @@
+hallo pak nama saya rifaldi dari takalar
+
+resolusi saya =
+- saya ingin membuat print java dengan "hallo word"
+- saya ingin membuat tipe data variabel
